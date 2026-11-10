@@ -827,5 +827,6 @@ Os documentos definem requisitos e contratos pretendidos; não significam que os
 - [Convenções de desenvolvimento](docs/CONTRIBUTING.md)
 - [Versionamento e compatibilidade](docs/VERSIONING.md)
 - [Estratégia de testes e qualidade](docs/TEST-STRATEGY.md)
+- [Revisão e checklist da Fase 0](docs/PHASE-0-REVIEW.md)
 
 As ADRs registram decisões arquiteturais aceitas. Alterações incompatíveis exigem uma nova ADR; consulte o índice para estado e histórico.
