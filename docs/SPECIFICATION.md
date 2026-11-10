@@ -32,6 +32,7 @@ Uma especificação não comprova implementação. Requisitos só são atendidos
 - [Convenções de desenvolvimento](CONTRIBUTING.md)
 - [Versionamento e compatibilidade](VERSIONING.md)
 - [Estratégia de testes](TEST-STRATEGY.md)
+- [Revisão da Fase 0](PHASE-0-REVIEW.md)
 
 ## Documentos especializados
 - [Arquitetura geral](ARCHITECTURE.md)
