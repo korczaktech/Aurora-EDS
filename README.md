@@ -789,3 +789,33 @@ A arquitetura deverá permitir que o Aurora-EDS evolua sem perder compatibilidad
 ---
 
 **Fim da especificação arquitetural 1.0.0.**
+
+
+---
+
+## Documentação técnica
+
+A especificação foi dividida em documentos especializados para manter os contratos de cada subsistema claros e evolutivos.
+
+- [Índice da especificação técnica](docs/SPECIFICATION.md)
+- [Arquitetura geral](docs/ARCHITECTURE.md)
+- [Aurora Core](docs/CORE.md)
+- [Runtime](docs/RUNTIME.md)
+- [UI Engine](docs/UI-ENGINE.md)
+- [Renderizador nativo](docs/RENDERER.md)
+- [Comunicação interna](docs/COMMUNICATION.md)
+- [Editor](docs/EDITOR.md)
+- [Terminal Zeus](docs/ZEUS.md)
+- [Projetos e workspaces](docs/PROJECT-MANAGER.md)
+- [Sistema de arquivos](docs/FILE-SYSTEM.md)
+- [Build System](docs/BUILD-SYSTEM.md)
+- [Sistema de linguagens](docs/LANGUAGE-SYSTEM.md)
+- [Depurador](docs/DEBUGGER.md)
+- [Sistema de extensões](docs/EXTENSIONS.md)
+- [Segurança](docs/SECURITY.md)
+- [Memória e recursos](docs/MEMORY.md)
+- [Testes e qualidade](docs/TESTING.md)
+- [Migração para Nebula](docs/NEBULA-MIGRATION.md)
+- [Roadmap](docs/ROADMAP.md)
+
+Os documentos definem requisitos e contratos pretendidos; não significam que os subsistemas já estejam implementados.
