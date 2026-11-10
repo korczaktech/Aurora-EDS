@@ -29,5 +29,9 @@ ADRs registram decisões arquiteturais duradouras do Aurora-EDS. São parte norm
 | [0009](0009-build-and-cache.md) | Builds e cache | Aceita |
 | [0010](0010-nebula-migration.md) | Migração gradual para Nebula | Aceita |
 
+## Observação sobre decisões condicionais
+
+O estado **Aceita** significa que a direção arquitetural foi escolhida. Não elimina gates de validação indicados no texto da ADR. Hermes, backend gráfico, estrutura de buffer do editor e execução de processos permanecem sujeitos às evidências e restrições descritas em suas respectivas decisões.
+
 ## Revisão
 Uma ADR deve ser reavaliada quando surgirem evidências que contradigam suas premissas, mudança relevante nas restrições Android, risco de segurança, regressão mensurável ou necessidade de quebrar um contrato público.
