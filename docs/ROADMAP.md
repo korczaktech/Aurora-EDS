@@ -5,11 +5,14 @@ As fases representam dependências técnicas, não datas prometidas. Uma fase s�
 
 ## Fase 0 — Fundação documental
 - Especificação central e documentos especializados.
-- ADRs para decisões de alto impacto.
-- Convenções de código, versionamento e testes.
-- Contratos de módulos e comunicação.
+- ADRs para decisões de alto impacto, com alternativas, consequências e critérios de revisão.
+- Convenções de contribuição e documentação.
+- Política de versionamento e compatibilidade de contratos.
+- Contratos comuns entre módulos, operações, eventos, erros, permissões e ciclo de vida.
+- Estratégia de testes unitários, de contrato, integração, sistema, performance e segurança.
+- Auditoria de consistência entre README, especificação central, documentos especializados e ADRs.
 
-**Saída:** arquitetura revisada, dependências definidas e validação aprovada.
+**Saída:** todas as decisões de alto impacto registradas; contratos e políticas publicados; conflitos documentais resolvidos; critérios de aceite revisados. A fase não exige implementação funcional, mas nenhuma implementação futura pode ser declarada conforme sem testes e evidências.
 
 ## Fase 1 — Fundação nativa e Core
 - Projeto Android mínimo.
