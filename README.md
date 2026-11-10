@@ -819,3 +819,13 @@ A especificação foi dividida em documentos especializados para manter os contr
 - [Roadmap](docs/ROADMAP.md)
 
 Os documentos definem requisitos e contratos pretendidos; não significam que os subsistemas já estejam implementados.
+
+### Fundação documental — Fase 0
+
+- [ADRs — decisões arquiteturais](docs/adr/README.md)
+- [Contratos entre módulos](docs/MODULE-CONTRACTS.md)
+- [Convenções de desenvolvimento](docs/CONTRIBUTING.md)
+- [Versionamento e compatibilidade](docs/VERSIONING.md)
+- [Estratégia de testes e qualidade](docs/TEST-STRATEGY.md)
+
+As ADRs registram decisões arquiteturais aceitas. Alterações incompatíveis exigem uma nova ADR; consulte o índice para estado e histórico.
