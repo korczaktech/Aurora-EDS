@@ -26,6 +26,13 @@ Uma especificação não comprova implementação. Requisitos só são atendidos
 | Terminal | Zeus, inicialmente Rust |
 | Linguagem de destino | Nebula para o código próprio, em migração gradual |
 
+## Fundação documental
+- [Índice de ADRs](adr/README.md)
+- [Contratos entre módulos](MODULE-CONTRACTS.md)
+- [Convenções de desenvolvimento](CONTRIBUTING.md)
+- [Versionamento e compatibilidade](VERSIONING.md)
+- [Estratégia de testes](TEST-STRATEGY.md)
+
 ## Documentos especializados
 - [Arquitetura geral](ARCHITECTURE.md)
 - [Aurora Core](CORE.md)
